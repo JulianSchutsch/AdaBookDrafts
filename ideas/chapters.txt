@@ -1,0 +1,34 @@
+List of possible chapters for the book:
+
+* Introduction
+ - Why Ada, advantages of Ada, references to other books
+ - State the purpose of this book
+
+* First steps in Ada
+ - Hello World in Ada
+   > The IO system
+   > Basic structure of a program
+ - Pocket calculator in Ada
+   > Procedures
+   > Type system
+ - Pocket calculator module
+   > Packages
+ - Pocket calculator object
+   > Introduction of records
+ - Generic pocket calculator
+   > Introduction of generics,
+     and formal type parameters
+
+* Ada for homogenous data
+ - A world of identical things,
+   > Conways Game of Life
+   > Multi particle simulation (planets)
+   > XML data
+
+* Ada for heterogenous data
+ - A complicated world,
+   > Creating a synchronized network of components, simulations
+     : Dispatching,
+     : Dynamic memory management
+   > Ada for GUI programming
+   > Parsing, Parser trees -> Full pocket calculator with expressions and functions
